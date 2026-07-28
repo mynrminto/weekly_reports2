@@ -13,16 +13,13 @@ Notion 掲載（音源を再生できる形で埋め込み）まで行います�
 （Routine のプロンプトを貼り直す必要はありません）。
 
 ```yaml
-# 番組名
-show_name: "週刊・小児腎臓病ラジオ"
-
-# PubMed 検索クエリ（専門領域を変えるならここ）
+show_name: "週刊・新生児医療ラジオ"
 pubmed_query: >-
-  (pediatric OR paediatric OR children OR childhood)
-  AND (kidney disease OR nephrology OR nephrotic OR nephritis OR renal)
+  (neonate OR neonatal OR preterm OR very low birth weight)
+  AND (intensive care OR outcome)
 
 # 1回あたりに取り上げる論文数
-topic_count: 3
+topic_count: 5
 
 # 2話者の設定（name は台本の話者ラベルと完全一致させる。voice は Gemini の音声名）
 hosts:
