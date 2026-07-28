@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>週刊・新生児医療ラジオ 2026-07-28</title>
+<style>
+  :root{
+    --bg:#0b1220; --panel:#111c31; --panel2:#0f1830;
+    --ink:#e8eef8; --muted:#93a4c0; --line:#22304d;
+    --a1:#38bdf8; --a2:#34d399; --a3:#f59e0b; --a4:#a78bfa; --a5:#f472b6;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font-family:"Hiragino Kaku Gothic ProN","Noto Sans JP",system-ui,-apple-system,"Segoe UI",sans-serif;
+    width:1160px}
+  .wrap{padding:44px 48px 52px}
+  .kicker{display:flex;align-items:center;gap:12px;color:var(--muted);
+    letter-spacing:.16em;font-size:13px;font-weight:700;text-transform:uppercase}
+  .kicker .dot{width:9px;height:9px;border-radius:50%;background:var(--a1);
+    box-shadow:0 0 0 4px rgba(56,189,248,.18)}
+  h1{margin:12px 0 6px;font-size:40px;line-height:1.15;letter-spacing:.01em}
+  h1 .accent{color:var(--a1)}
+  .sub{color:var(--muted);font-size:15px;margin-bottom:14px}
+  .hosts{display:inline-flex;align-items:center;gap:10px;margin-bottom:26px;
+    font-size:13px;color:#c7d4ea;background:rgba(56,189,248,.08);
+    border:1px solid var(--line);border-radius:999px;padding:7px 14px}
+  .hosts b{color:#fff;font-weight:700}
+  .hosts .sep{color:var(--muted)}
+  .stats{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-bottom:30px}
+  .stat{background:linear-gradient(180deg,var(--panel),var(--panel2));
+    border:1px solid var(--line);border-radius:14px;padding:18px 20px}
+  .stat .n{font-size:34px;font-weight:800;line-height:1}
+  .stat .l{color:var(--muted);font-size:13px;margin-top:8px}
+  .grid{display:grid;grid-template-columns:1fr;gap:16px}
+  .card{background:linear-gradient(180deg,var(--panel),var(--panel2));
+    border:1px solid var(--line);border-radius:16px;padding:20px 24px;position:relative;overflow:hidden}
+  .card::before{content:"";position:absolute;left:0;top:0;bottom:0;width:5px;background:var(--c)}
+  .card .top{display:flex;align-items:center;gap:12px;margin-bottom:10px}
+  .badge{width:34px;height:34px;border-radius:9px;display:grid;place-items:center;
+    font-weight:800;font-size:16px;color:#04121f;background:var(--c)}
+  .tag{font-size:11px;font-weight:700;letter-spacing:.06em;color:var(--c);
+    border:1px solid var(--c);border-radius:999px;padding:3px 10px;opacity:.95}
+  .type{margin-left:auto;font-size:12px;color:var(--muted)}
+  .card h2{margin:2px 0 8px;font-size:20px;line-height:1.35}
+  .meta{color:var(--muted);font-size:12.5px;margin-bottom:12px}
+  .meta b{color:#c7d4ea;font-weight:700}
+  .desc{font-size:14px;line-height:1.6;color:#d7e0f0;margin-bottom:14px}
+  .th{border-top:1px dashed var(--line);padding-top:12px}
+  .th .thh{display:flex;align-items:center;gap:8px;font-size:12px;font-weight:800;
+    letter-spacing:.06em;color:var(--c);margin-bottom:8px}
+  .th ol{margin:0;padding-left:20px}
+  .th li{font-size:13px;line-height:1.55;color:#dbe4f2;margin-bottom:4px}
+  .th li::marker{color:var(--c);font-weight:800}
+  .foot{display:flex;align-items:center;justify-content:space-between;
+    margin-top:28px;padding-top:18px;border-top:1px solid var(--line);color:var(--muted);font-size:12.5px}
+  .foot .src{color:#c7d4ea;font-weight:700}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="kicker"><span class="dot"></span>週刊・新生児医療ラジオ &nbsp;/&nbsp; WEEKLY NEONATAL CARE RADIO</div>
+  <h1>今週の<span class="accent">新生児医療</span>トピック</h1>
+  <div class="sub">2026年7月28日号 &middot; PubMed 新着（2026-07-21〜07-28 収載）より厳選</div>
+  <div class="hosts">🎙️ 対話形式&nbsp; <b>ナオ</b><span class="sep">（進行）</span><span class="sep">×</span><b>マキ先生</b><span class="sep">（解説）</span></div>
+
+  <div class="stats">
+    <div class="stat"><div class="n" style="color:var(--a1)">432</div><div class="l">今週の新着ヒット（新生児 × 集中治療/アウトカム）</div></div>
+    <div class="stat"><div class="n" style="color:var(--a2)">5</div><div class="l">厳選トピック（各回に Take Home 3点）</div></div>
+    <div class="stat"><div class="n" style="color:var(--a3)">2 RCT</div><div class="l">＋ 2 系統的レビュー ＋ 1 Viewpoint</div></div>
+  </div>
+
+  <div class="grid">
+    <div class="card" style="--c:var(--a1)">
+      <div class="top"><div class="badge">1</div><span class="tag">呼吸管理</span><span class="type">システマティックレビュー/メタ解析</span></div>
+      <h2>分娩室CPAP(DR-CPAP)、観察研究とRCTで結論が逆転</h2>
+      <div class="meta"><b>Journal of Paediatrics and Child Health</b> &middot; 2026-07-28 &middot; PMID 42517258</div>
+      <div class="desc">後期早産児・正期産児への分娩室CPAPを7研究・約13.5万人で統合。観察研究では気胸・NICU入室増加と関連したが、RCT2件ではむしろNICU入室が減少。エビデンスの確実性は非常に低い。</div>
+      <div class="th">
+        <div class="thh">🎯 TAKE HOME</div>
+        <ol>
+          <li>観察研究で気胸リスク上昇（補正後OR約24）と関連したが<b>交絡の影響を除外できない</b>。</li>
+          <li>数少ないRCTでは<b>逆にNICU入室オッズが低下</b>（OR 0.24）し、結果の方向性が逆転。</li>
+          <li>確実性は非常に低く、<b>質の高い大規模RCTが急務</b>。</li>
+        </ol>
+      </div>
+    </div>
+
+    <div class="card" style="--c:var(--a2)">
+      <div class="top"><div class="badge">2</div><span class="tag">輸血</span><span class="type">Cochrane系統的レビュー</span></div>
+      <h2>1回の輸血量、早産児データはわずか334例</h2>
+      <div class="meta"><b>The Cochrane Database of Systematic Reviews</b> &middot; 2026-07-23 &middot; PMID 42489156</div>
+      <div class="desc">1回あたりの輸血量（多い vs 少ない）を成人・小児・早産児で比較。成人では量を増やしても予後は改善せず、早産児データは2試験・334例のみで推奨には至らない。</div>
+      <div class="th">
+        <div class="thh">🎯 TAKE HOME</div>
+        <ol>
+          <li>成人では2単位vs1単位で<b>死亡率・入院日数・有害事象に差なし</b>。</li>
+          <li>早産児(32週未満/1.5kg未満)のデータは<b>2試験・334例のみ</b>で推奨不可。</li>
+          <li>新生児対象の<b>1回輸血量に関するRCTが今後の課題</b>。</li>
+        </ol>
+      </div>
+    </div>
+
+    <div class="card" style="--c:var(--a3)">
+      <div class="top"><div class="badge">3</div><span class="tag">抗菌薬適正使用</span><span class="type">Review (Viewpoint)</span></div>
+      <h2>研究はNICU(Level 3)偏重、現場はSCBU(Level 1)が主体</h2>
+      <div class="meta"><b>JAC-Antimicrobial Resistance</b> &middot; 2026-07-17 &middot; PMID 42491437</div>
+      <div class="desc">英国の新生児抗菌薬適正使用研究の大半が高次医療のNICU(Level 3)発。実際の産褥期ケアの多くを担うSCBU(Level 1)・地域NICU(Level 2)への応用可能性はほぼ未検証という構造的ギャップを指摘。</div>
+      <div class="th">
+        <div class="thh">🎯 TAKE HOME</div>
+        <ol>
+          <li>敗血症は減少傾向でも<b>見逃し回避への懸念から抗菌薬過剰処方が継続</b>。</li>
+          <li>適正使用研究の多くは<b>Level 3発でLevel 1/2への外挿は未検証</b>。</li>
+          <li>新規診断ツールの検証も<b>低次医療施設を含めた研究デザイン</b>が必要。</li>
+        </ol>
+      </div>
+    </div>
+
+    <div class="card" style="--c:var(--a4)">
+      <div class="top"><div class="badge">4</div><span class="tag">神経予後予測</span><span class="type">Review</span></div>
+      <h2>生存限界の超早産児、予後予測は「更新し続ける」姿勢で</h2>
+      <div class="meta"><b>Pediatric Research</b> &middot; 2026-07-24 &middot; PMID 42498830</div>
+      <div class="desc">生存限界(limits of viability)で生まれた児の神経予後予測を、単一時点の断定ではなく臨床経過・脳画像・環境因子を統合し確率的に更新していく縦断的な枠組みとして提案。</div>
+      <div class="th">
+        <div class="thh">🎯 TAKE HOME</div>
+        <ol>
+          <li>出生時の脳脆弱性に加え<b>BPD・NEC・敗血症などの合併症が予後を修飾</b>。</li>
+          <li><b>脳室内出血・白質障害・小脳出血</b>などの画像所見が予測精度を高める。</li>
+          <li>カウンセリングは<b>確率の幅として提示し継続的に更新</b>する姿勢が推奨。</li>
+        </ol>
+      </div>
+    </div>
+
+    <div class="card" style="--c:var(--a5)">
+      <div class="top"><div class="badge">5</div><span class="tag">家族支援・メンタルヘルス</span><span class="type">RCT</span></div>
+      <h2>NICU保護者へのデジタルACT支援、ストレス軽減効果は示されず</h2>
+      <div class="meta"><b>JMIR Mental Health</b> &middot; 2026-07-23 &middot; PMID 42492071</div>
+      <div class="desc">超早産児(在胎32週未満)の保護者102名を対象に、デジタルACT+NICU教育(NPACT)、教育のみ、通常ケアの3群でNICUストレスを比較。2週間後のスコアに有意差はなかったが完全母乳率に良い傾向。</div>
+      <div class="th">
+        <div class="thh">🎯 TAKE HOME</div>
+        <ol>
+          <li>NPACTは通常ケアと比べ<b>ストレス・不安・抑うつを有意には改善せず</b>。</li>
+          <li>エンゲージメントは高く<b>97%が5モジュール以上を完了</b>、実装可能性は良好。</li>
+          <li>副次的に<b>完全母乳率が高い傾向</b>。ハイブリッド支援モデルが今後の課題。</li>
+        </ol>
+      </div>
+    </div>
+  </div>
+
+  <div class="foot">
+    <span>出典: <span class="src">According to PubMed</span> — 各論文のDOIは番組概要欄／Notionページ参照</span>
+    <span>mynrminto/weekly_reports</span>
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,102 @@
+{
+  "issue_date": "2026-07-28",
+  "format": {
+    "show_name": "週刊・新生児医療ラジオ",
+    "style": "2話者の対話形式（進行役ナオ × 解説役マキ先生）",
+    "topics": 5,
+    "take_home_per_topic": 3
+  },
+  "search": {
+    "query": "(neonate OR neonatal OR preterm OR very low birth weight) AND (intensive care OR outcome)",
+    "datetype": "edat",
+    "date_from": "2026-07-21",
+    "date_to": "2026-07-28",
+    "new_hits_broad": 432,
+    "new_hits_filtered_review_rct_guideline_multicenter": 93
+  },
+  "selected": [
+    {
+      "pmid": "42517258",
+      "title": "Association Between Delivery Room Continuous Positive Airway Pressure and Neonatal Outcomes in Late Preterm and Term Infants: A Systematic Review and Meta-Analysis",
+      "journal": "Journal of Paediatrics and Child Health",
+      "date": "2026-07-28",
+      "type": "Systematic Review / Meta-Analysis",
+      "doi": "10.1111/jpc.70516",
+      "url": "https://doi.org/10.1111/jpc.70516",
+      "one_line": "後期早産児・正期産児への分娩室CPAP(DR-CPAP)について7研究・約13.5万人を統合。観察研究では気胸・NICU入室増加と関連したがRCT2件では逆にNICU入室が減少しており、エビデンスの確実性は非常に低く、頑健な臨床試験が急務とされた。",
+      "take_home": [
+        "観察研究ではDR-CPAPが気胸リスク上昇（補正後OR約24）やサーファクタント使用増加と関連したが、交絡の影響を除外できない。",
+        "対照的に、数少ないRCT（2件）ではDR-CPAP群でNICU入室オッズがむしろ低下しており（OR 0.24）、研究デザインによって結果の方向性が逆転している。",
+        "現時点のエビデンスは観察研究中心で確実性が非常に低く、後期早産児・正期産児へのDR-CPAP適応を決めるには質の高いRCTが必要。"
+      ]
+    },
+    {
+      "pmid": "42489156",
+      "title": "Larger versus smaller red blood cell volume per transfusion in hospitalized adults, children and preterm neonates",
+      "journal": "The Cochrane Database of Systematic Reviews",
+      "date": "2026-07-23",
+      "type": "Cochrane Systematic Review",
+      "doi": "10.1002/14651858.CD015898.pub2",
+      "url": "https://doi.org/10.1002/14651858.CD015898.pub2",
+      "one_line": "1回の輸血量（多い vs 少ない）を成人・小児・早産児で比較したコクランレビュー。早産児データは2試験・334例のみと乏しく明確な推奨はできないが、成人では多い輸血量が予後を改善しないことが示された。",
+      "take_home": [
+        "成人領域では2単位vs1単位の比較で死亡率・入院日数・有害事象に差はなく、少量輸血戦略で臨床的に劣らない可能性が示された。",
+        "早産児（32週未満・1.5kg未満が対象）を扱った研究はわずか2件・334例のみで、20mL/kg vs 10mL/kgの比較データはまだ推奨を出せる段階にない。",
+        "小児・新生児領域は既存のエビデンスが著しく手薄であり、1回輸血量に関する新生児対象のRCTの実施が今後の重要課題。"
+      ]
+    },
+    {
+      "pmid": "42491437",
+      "title": "Antimicrobial stewardship in UK special care baby units: gaps in research and future directions",
+      "journal": "JAC-Antimicrobial Resistance",
+      "date": "2026-07-17",
+      "type": "Review (Viewpoint)",
+      "doi": "10.1093/jacamr/dlag137",
+      "url": "https://doi.org/10.1093/jacamr/dlag137",
+      "one_line": "英国の新生児抗菌薬適正使用(stewardship)研究の大半が高次医療のNICU(Level 3)に偏っており、実際の産褥期入院の多くを担うSCBU(Level 1)・地域NICU(Level 2)への応用可能性を検証した研究がほとんどないという構造的ギャップを指摘したビューポイント論文。",
+      "take_home": [
+        "新生児敗血症は減少傾向にあるものの、見逃しを恐れるあまり抗菌薬の過剰処方が続いており、抗菌薬適正使用の推進が英国の国家行動計画でも重視されている。",
+        "既存の適正使用研究のほとんどはLevel 3(NICU)発で行われており、実際に産褥期ケアの主体を担うLevel 1(SCBU)・Level 2(地域NICU)には知見がそのまま当てはまらない可能性がある。",
+        "新しい敗血症診断ツールの検証や多職種連携のあり方についても、低次医療施設を対象に含めた研究デザインが今後必要。"
+      ]
+    },
+    {
+      "pmid": "42498830",
+      "title": "Neuroprognostication in infants born preterm at the limits of viability: assessment under uncertainty",
+      "journal": "Pediatric Research",
+      "date": "2026-07-24",
+      "type": "Review",
+      "doi": "10.1038/s41390-026-05331-7",
+      "url": "https://doi.org/10.1038/s41390-026-05331-7",
+      "one_line": "生存限界(limits of viability)で生まれた超早産児の神経学的予後予測について、単一時点での断定ではなく、臨床経過・脳画像・環境因子を統合し確率的に更新していく「縦断的な予後予測」の枠組みを提案したレビュー。",
+      "take_home": [
+        "生存限界で生まれた児は出生時点で脳の発達脆弱性を抱えており、その後のBPD・NEC・敗血症などの合併症がさらに予後を修飾していく。",
+        "脳室内出血・白質障害・小脳出血などの脳損傷所見は神経発達予後の重要な予測因子であり、画像所見の統合が予後予測の精度を高める。",
+        "家族へのカウンセリングは二者択一の断定を避け、不確実性を認めた上で『確率の幅』として提示し、新しい情報が得られるたびに予後予測を更新していく姿勢が推奨される。"
+      ]
+    },
+    {
+      "pmid": "42492071",
+      "title": "A Digital Acceptance and Commitment Therapy and Education Intervention for Caregivers of Very Preterm Infants in the Neonatal Intensive Care Unit: Randomized Controlled Trial",
+      "journal": "JMIR Mental Health",
+      "date": "2026-07-23",
+      "type": "Randomized Controlled Trial",
+      "doi": "10.2196/92021",
+      "url": "https://doi.org/10.2196/92021",
+      "one_line": "在胎32週未満の超早産児の保護者102名を対象に、デジタルACT(アクセプタンス&コミットメント・セラピー)＋NICU教育プログラム(NPACT)、教育のみ、通常ケアの3群でNICUストレスを比較したRCT。2週間後のストレス得点に有意差はなかったが、両デジタル群で完全母乳率が高い傾向が見られた。",
+      "take_home": [
+        "自己完結型のデジタルACT介入(NPACT)は、通常ケアと比較して2週間後のNICU関連ストレス・不安・抑うつスコアを有意には改善しなかった。",
+        "一方でエンゲージメントは高く(NPACT群の97%が7モジュール中5つ以上を完了)、介入は『非常に役立った』と高評価を受けており、実装可能性自体は示された。",
+        "副次的に両デジタル群で退院時の完全母乳率が高い傾向が見られ、急性期だけでなく退院後まで継続する形のハイブリッド支援モデルが今後の検討課題として示唆される。"
+      ]
+    }
+  ],
+  "not_selected_this_week": [
+    {"pmid": "42498826", "reason": "出生時の呼吸補助における鼻マスクvs顔マスクのメタ解析。DR-CPAPの話題と主題が近く重複を避けるため見送り。"},
+    {"pmid": "42501076", "reason": "新生児の穿刺時鎮痛に関する新規局所麻酔薬配合のRCT。臨床的に興味深いが単一施設の小規模試験で深掘りの優先度を下げた。"},
+    {"pmid": "42503584", "reason": "新生児低酸素性虚血性脳症における腸-脳-免疫相互作用の基礎的メカニズムレビュー。臨床アウトカムよりも基礎機序中心のため見送り。"},
+    {"pmid": "42507072", "reason": "新生児・小児領域のポイントオブケアエコーに関するレビュー。手技解説が中心で新規知見としてのインパクトはやや小さいと判断。"},
+    {"pmid": "42479995", "reason": "小児急性期脳梗塞への血栓回収療法。新生児ではなくやや年長児が対象のため、今週のテーマ(新生児集中治療)からは外れる。"},
+    {"pmid": "42516090", "reason": "妊娠糖尿病におけるアディポネクチンの基礎的知見レビュー。母体側の代謝研究が中心で新生児集中治療のテーマとはやや距離がある。"}
+  ]
+}
