@@ -1,0 +1,101 @@
+{
+  "issue_date": "2026-08-03",
+  "format": {
+    "style": "2話者の対話形式（進行役ナオ × 解説役マキ先生）",
+    "topics": 3,
+    "take_home_per_topic": 3
+  },
+  "search": {
+    "query": "(pediatric OR paediatric OR children OR childhood) AND (kidney disease OR nephrology OR nephrotic OR nephritis OR renal)",
+    "datetype": "edat",
+    "date_from": "2026-07-27",
+    "date_to": "2026-08-03",
+    "new_hits_broad": 218,
+    "new_hits_filtered_by_type": 42
+  },
+  "selected": [
+    {
+      "pmid": "42509536",
+      "title": "Examining commonly used equations for estimating the glomerular filtration rate (GFR) in a healthy cohort of children and adolescents",
+      "journal": "BMC Nephrology",
+      "date": "2026-07-25",
+      "type": "Observational Study (large healthy reference cohort, n=4,776)",
+      "doi": "10.1186/s12882-026-05219-y",
+      "url": "https://doi.org/10.1186/s12882-026-05219-y",
+      "one_line": "健康な小児・若年成人4,776人のコホートで、Schwartz・CKiD・U25・EKFC・CKD-EPI・CAPAなど主要なeGFR推算式を比較。EKFC・CKiD・Schwartz・U25scrは生理的に妥当な分布を示した一方、簡便なBedside式やCAPA式は非現実的な値を出しやすいことが分かった。",
+      "take_home": [
+        "健康な小児・若年成人（0.25〜21歳）4,776人のデータで、EKFCcr・CKiD・Schwartz(revised bedside改)・U25scrの各式は年齢を通して妥当なeGFR分布（90〜120 mL/min/1.73m²）を示した。",
+        "簡便なBedside式やCAPA式、CKD-EPI式は、他の式と比べて系統的な偏り（バイアス）が大きく、非現実的な値を出す割合が高かった。男児は女児よりeGFRが高い傾向も確認された。",
+        "日常診療でどのeGFR推算式を使うかで評価が変わりうるため、年齢層に応じた式の選択と、単一の式に頼らない解釈が重要。"
+      ]
+    },
+    {
+      "pmid": "42527695",
+      "title": "Acute neurologic clinical manifestations and outcomes in children with thrombotic microangiopathies in paediatric intensive care units",
+      "journal": "European Journal of Pediatrics",
+      "date": "2026-07-30",
+      "type": "Prospective Multicenter Observational Study（スペイン20施設・MATUCIPレジストリ、n=160）",
+      "doi": "10.1007/s00431-026-07271-0",
+      "url": "https://doi.org/10.1007/s00431-026-07271-0",
+      "one_line": "小児血栓性微小血管症（TMA、HUSを含む）でPICUに入室した160例を前向きに追跡し、神経症状の発生率と予後を検討。約3割が経過中に神経症状（多くは重症）を発症し、腎代替療法や補体阻害薬の使用増加・PICU滞在延長と関連していた。",
+      "take_home": [
+        "PICUに入室した小児TMA160例のうち、初発時に神経症状があったのは2%未満だったが、経過観察中に約29%が神経症状を発症し、その多くが意識障害やけいれんなど重症だった。",
+        "神経症状を合併した患児は、腎代替療法や補体阻害薬（エクリズマブ/ラブリズマブ）の使用頻度が高く、PICU滞在期間も長かった。",
+        "TMAでPICU管理中は、初発時に神経症状がなくても、その後の増悪を見越した継続的な神経学的モニタリングが重要。"
+      ]
+    },
+    {
+      "pmid": "42529192",
+      "title": "Alport Syndrome Family Screening and Management: Experience of a Tertiary Center",
+      "journal": "Kidney Medicine",
+      "date": "2026-06-02",
+      "type": "Prospective Single-Center Study（カスケードスクリーニング、n=93名の血縁者）",
+      "doi": "10.1016/j.xkme.2026.101419",
+      "url": "https://doi.org/10.1016/j.xkme.2026.101419",
+      "one_line": "Alport症候群患者の第一度近親者93名を対象に、遺伝カウンセリングと分子遺伝学的検査による家族カスケードスクリーニングを実施。76名が検査を受け68%が陽性となり、その半数以上でRAS阻害薬による腎保護治療が開始された。",
+      "take_home": [
+        "遺伝性腎疾患であるAlport症候群では、患者本人だけでなく第一度近親者への家族カスケードスクリーニングにより、無症状の新規患者を高率（分子検査陽性68%）に同定できる。",
+        "陽性者のうち約37%が蛋白尿、約14%がeGFR60未満と、すでに腎障害が進行しているケースも一定数あり、早期発見の意義が示された。",
+        "陽性と判定された血縁者の約58%でRAS阻害薬による腎保護治療が開始されており、家系内スクリーニングが実際の治療介入につながることを示している。"
+      ]
+    }
+  ],
+  "not_selected_this_week": [
+    {
+      "pmid": "42517885",
+      "reason": "小児ARPKDのMRIバイオマーカーに関する総説。将来の多施設試験を見据えた有望な内容だが、新規の一次データを伴わないレビューのため、実データを持つ3本を優先した。"
+    },
+    {
+      "pmid": "42529196",
+      "reason": "乳児期発症の腎限局型TMAの症例集積（5例）。TMAは今週すでに別トピックで深掘りするため主題の重複を避け、症例数も少なめのため見送り。"
+    },
+    {
+      "pmid": "42521825",
+      "reason": "腎発生におけるエピジェネティック制御の総説（Nature Reviews Nephrology）。学術的に興味深いが基礎科学寄りで、臨床応用に直結する内容が薄いため優先度を下げた。"
+    },
+    {
+      "pmid": "42525046",
+      "reason": "小児敗血症性ショックに対するCRRT（高容量血液濾過）の実践的レビュー。2026年版Surviving Sepsis Campaignガイドラインの妥当性を批判的に検討する良質な内容だが、集中治療寄りで小児腎臓病そのもののテーマからはやや外れるため見送り。"
+    },
+    {
+      "pmid": "42540427",
+      "reason": "高血圧とCKDの関連に関するメタアナリシス。対象集団が主に成人であり、小児腎臓病領域との関連が薄いため見送り。"
+    },
+    {
+      "pmid": "42509095",
+      "reason": "Wilms腫瘍の内分泌学的側面に関する総説。腫瘍学・内分泌学の色合いが強く、今週の3本（機能評価・急性期合併症・遺伝性疾患スクリーニング）とのバランスを考慮して見送り。"
+    },
+    {
+      "pmid": "42515929",
+      "reason": "CAKUT患者1例におけるCTU2遺伝子バリアントの症例報告。原因遺伝子としての因果関係が未確立の単一症例のため優先度を下げた。"
+    },
+    {
+      "pmid": "42518702",
+      "reason": "末期ネフローゼ症候群の小児における多発頭蓋内出血の症例報告。臨床的には重要だが症例報告のため優先度を下げた。"
+    },
+    {
+      "pmid": "42529038",
+      "reason": "結節性硬化症と先天性片腎の合併例の症例報告。稀少な合併ではあるが単一症例報告のため見送り。"
+    }
+  ]
+}
