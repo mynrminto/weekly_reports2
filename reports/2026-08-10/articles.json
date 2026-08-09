@@ -1,0 +1,93 @@
+{
+  "issue_date": "2026-08-10",
+  "format": {
+    "style": "2話者の対話形式（進行役ナオ × 解説役マキ先生）",
+    "topics": 3,
+    "take_home_per_topic": 3
+  },
+  "search": {
+    "query": "(pediatric OR paediatric OR children OR childhood) AND (kidney disease OR nephrology OR nephrotic OR nephritis OR renal)",
+    "datetype": "edat",
+    "date_from": "2026-08-03",
+    "date_to": "2026-08-10",
+    "new_hits_broad": 146,
+    "new_hits_filtered_by_type": 24
+  },
+  "selected": [
+    {
+      "pmid": "42550275",
+      "title": "Fluid balance and acute lung injury in children and young adults receiving continuous renal replacement therapy: a report from the Worldwide Exploration of Renal Replacement Outcomes Collaborative in Kidney Disease (WE-ROCK)",
+      "journal": "European Journal of Pediatrics",
+      "date": "2026-08-04",
+      "type": "Multicenter International Retrospective Cohort（WE-ROCKコラボレーティブ、n=312、0〜25歳）",
+      "doi": "10.1007/s00431-026-07285-8",
+      "url": "https://doi.org/10.1007/s00431-026-07285-8",
+      "one_line": "CRRT（持続的腎代替療法）を要した人工呼吸管理下の小児・若年成人312例の多施設後ろ向きコホート。急性肺障害(ALI)や体液過剰(FA)自体は死亡と有意に関連せず、CRRT開始までの時間の長さと全身重症度(PELOD-2)が死亡と関連していた。",
+      "take_home": [
+        "人工呼吸管理下でCRRTを要した小児・若年成人312例の多施設後ろ向きコホートで、ICU死亡率は44.6%（139/312）と高かった。",
+        "多変量解析では、急性肺障害(ALI)の重症度や体液過剰(FA)の程度自体は、死亡やMAKE90（90日時点の主要有害腎イベント）と有意な関連を示さなかった。",
+        "CRRT開始までの時間の長さと、全身重症度(PELOD-2スコア)が死亡と有意に関連しており、CRRT開始タイミングの重要性が示唆された。"
+      ]
+    },
+    {
+      "pmid": "42563542",
+      "title": "Vaccination in pediatric transplantation-General recommendations. A position paper by the European Reference Network TransplantChild",
+      "journal": "Journal of Pediatric Gastroenterology and Nutrition",
+      "date": "2026-08-07",
+      "type": "Position Paper（European Reference Network TransplantChild Working Group）",
+      "doi": "10.1002/jpn3.70523",
+      "url": "https://doi.org/10.1002/jpn3.70523",
+      "one_line": "小児固形臓器移植(SOT)・造血幹細胞移植(HSCT)レシピエントにおけるワクチン接種の欧州専門家ポジションペーパー。免疫抑制によるワクチン効果低下やHSCT後の免疫記憶喪失などの課題を整理し、エビデンスに基づく推奨をまとめている。",
+      "take_home": [
+        "小児SOT・HSCTレシピエントでは免疫抑制により移植後のワクチン効果が低下し、ワクチンで防げる感染症のリスクが成人より高く、入院・グラフト喪失・死亡につながりうる。",
+        "移植前にワクチン接種が不完全なまま移植に至る例が多く、移植前の接種状況の確認と補完が重要。",
+        "HSCTでは免疫再構築に伴い既存の免疫記憶が失われるため、移植前後を通じた計画的な再接種スケジュールと、GVHDや免疫グロブリン療法など個別要因を踏まえたタイミング調整が必要。"
+      ]
+    },
+    {
+      "pmid": "42557795",
+      "title": "Anti-nephrin autoantibodies in post-transplant recurrence of focal segmental glomerulosclerosis: a review",
+      "journal": "Renal Failure",
+      "date": "2026-08-05",
+      "type": "Review（抗ネフリン自己抗体と移植後FSGS再発に関する総説）",
+      "doi": "10.1080/0886022X.2026.2707051",
+      "url": "https://doi.org/10.1080/0886022X.2026.2707051",
+      "one_line": "移植後に再発する巣状分節性糸球体硬化症(FSGS)患者で見つかる、ポドサイトのタンパク質ネフリンを標的とする自己抗体（抗ネフリン抗体）について、疾患活動性との相関や新規バイオマーカーとしての可能性を整理した総説。",
+      "take_home": [
+        "移植後に再発するFSGS患者の一部で、ポドサイト（足細胞）のタンパク質ネフリンを標的とする自己抗体（抗ネフリン抗体）が同定されている。",
+        "抗ネフリン抗体はネフリンに結合し下流シグナルを乱すことでポドサイトの構造・機能障害を引き起こし、抗体関連ポドサイト症という疾患概念の理解に寄与する。",
+        "抗ネフリン抗体価は疾患活動性と相関し、移植後FSGS再発の診断・予後予測・治療方針決定に使える新規バイオマーカーとなる可能性があるが、再発への直接的な因果関係はまだ完全には解明されていない。"
+      ]
+    }
+  ],
+  "not_selected_this_week": [
+    {
+      "pmid": "42568331",
+      "reason": "小児の長期大気汚染曝露と血圧上昇の関連を検討した更新版システマティックレビュー・メタ解析（99万人規模）。腎臓病そのものではなく心血管・環境疫学寄りのテーマのため見送り。"
+    },
+    {
+      "pmid": "42562870",
+      "reason": "小児期の孤立性収縮期高血圧が成人期の高血圧・血管リモデリング・腎障害を予測するという22.9年追跡の前向きコホート（北京、n=1228）。示唆に富むが主眼は血圧・心血管表現型で腎障害は複数のエンドポイントの一つのため優先度を下げた。"
+    },
+    {
+      "pmid": "42560401",
+      "reason": "非外科性副甲状腺機能低下症のインドの単施設コホート（AIRE・GATA3新規バリアント）。腎石灰化などの腎合併症データを含むが主眼は内分泌疾患であり見送り。"
+    },
+    {
+      "pmid": "42565989",
+      "reason": "小児ネフローゼ症候群における抗リツキシマブ抗体に関する単施設研究（n=90、Pediatric Nephrology誌）。テーマは関連するが単施設・小規模のため今週は見送り。"
+    },
+    {
+      "pmid": "42571592",
+      "reason": "がん患者における腎生検のコツをまとめた総説（Clinical Kidney Journal）。実践的だが小児に特化していないため見送り。"
+    },
+    {
+      "pmid": "42562663",
+      "reason": "小児救急における核医学の総説。小児腎臓病領域を含むがテーマがより広い核医学一般のため見送り。"
+    },
+    {
+      "pmid": "42563565",
+      "reason": "乳児期神経因性膀胱における間欠導尿(CIC)開始時期に関する単施設研究（n=221）。泌尿器科寄りかつ単施設のため優先度を下げた。"
+    }
+  ]
+}
