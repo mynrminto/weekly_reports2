@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-31",
+  "search": {
+    "query": "(pediatric OR paediatric OR children OR childhood) AND (kidney disease OR nephrology OR nephrotic OR nephritis OR renal)",
+    "datetype": "edat",
+    "date_from": "2026-08-24",
+    "date_to": "2026-08-31",
+    "total_hits_broad": 158,
+    "total_hits_quality_filtered": 30
+  },
+  "selected": [
+    {
+      "pmid": "42650459",
+      "title": "Pediatric Kidney Transplantation: A Systematic Review",
+      "journal": "Children (Basel, Switzerland)",
+      "date": "2026-08-21",
+      "type": "Systematic Review",
+      "doi": "10.3390/children13081122",
+      "url": "https://doi.org/10.3390/children13081122",
+      "one_line": "35件の研究を統合した系統的レビューで、小児腎移植の1年生着率94.6%に対し10年生着率は59.5%まで低下し、拒絶反応・感染症・思春期のアドヒアランス不良が長期予後を左右することを示した。",
+      "take_home": [
+        "小児腎移植の短期成績は極めて良好（1年生着率94.6%）だが、10年生着率は59.5%まで低下し、長期管理が課題である。",
+        "急性拒絶反応と移植腎機能発現遅延（DGF）が主要な免疫学的リスク因子であり、術後感染症は約45%の患者に発生する。",
+        "思春期における免疫抑制薬アドヒアランス不良が移植腎廃絶の重要な要因であり、多職種による支援体制の構築が生着率改善の鍵となる。"
+      ]
+    },
+    {
+      "pmid": "42646582",
+      "title": "Beyond the Steroid Trial: A Scoping Review of Biomarkers for Pediatric Nephrotic Syndrome",
+      "journal": "Medical Sciences (Basel, Switzerland)",
+      "date": "2026-07-29",
+      "type": "Scoping Review",
+      "doi": "10.3390/medsci14040448",
+      "url": "https://doi.org/10.3390/medsci14040448",
+      "one_line": "2020年以降の34研究を統合し、小児特発性ネフローゼ症候群における抗ネフリン自己抗体をはじめとするバイオマーカーを整理し、ステロイド反応性を待たない早期の病型層別化の可能性を示した。",
+      "take_home": [
+        "抗ネフリン IgG 自己抗体は表現型ごとに陽性率が異なり（SSNS 68%→遺伝性SRNS 2%）、自己免疫性ポドサイト病としての機序を強く支持する最有力バイオマーカーである。",
+        "尿中NGALや末梢血B細胞サブセットのモニタリングは、既存の検査体制でも比較的導入しやすい候補として位置づけられる。",
+        "現状はステロイド反応性で分類し治療反応を待ってから病型を判断しているが、バイオマーカーにより早期に生物学的な層別化を行い、不要な治療曝露を減らせる可能性がある。"
+      ]
+    },
+    {
+      "pmid": "42641288",
+      "title": "Review: Posterior urethral valves (PUV) … what do we know?",
+      "journal": "Journal of Pediatric Urology",
+      "date": "2026-08-11",
+      "type": "Scoping Review (PRISMA-ScR)",
+      "doi": "10.1016/j.jpurol.2026.106205",
+      "url": "https://doi.org/10.1016/j.jpurol.2026.106205",
+      "one_line": "1243件の文献を統合したPRISMA-ScRスコーピングレビューで、後部尿道弁（PUV）管理における出生前から移植前最適化までの全経路のエビデンスを整理し、クレアチニンナディアやPURKスコアによるリスク層別化など強いエビデンスを持つ介入を特定した。",
+      "take_home": [
+        "後部尿道弁（PUV）は男児における先天性下部尿路閉塞の最多原因であり、小児の慢性腎臓病・末期腎不全の主要な原因である。",
+        "初回1年以内（早ければ生後6週）のクレアチニンナディアやPURKスコアによるリスク層別化、内視鏡的一次弁切除、発熱性尿路感染予防のための包皮環状切除には比較的強いエビデンスがある。",
+        "エビデンスの大部分は観察研究であり、出生前介入・バイオマーカー検証・成人期への移行医療については前向き多施設レジストリや段階的無作為化試験など今後の研究が急務である。"
+      ]
+    }
+  ],
+  "not_selected_this_week": [
+    {
+      "pmid": "42664148",
+      "title": "Multisystem Burden of Paediatric Systemic Lupus Erythematosus: A Systematic Review and Meta-Analysis",
+      "reason": "ループス腎炎を含むが主題は多臓器（神経精神・眼・免疫）にわたり腎臓病領域への特化度が相対的に低いため見送り。"
+    },
+    {
+      "pmid": "42637661",
+      "title": "Paediatric nephro-urology imaging: updates in renal scintigraphy and pitfalls",
+      "reason": "画像診断技術のアップデートが中心で、今週選定の3本（移植・糸球体疾患・閉塞性尿路疾患）と比べ臨床的インパクトの新規性がやや小さいため見送り。"
+    },
+    {
+      "pmid": "42639006",
+      "title": "Pediatric hyperuricemia: genetic basis, metabolic mechanisms, and clinical implications",
+      "reason": "腎疾患との関連はあるが主題は高尿酸血症の代謝・遺伝学であり、腎臓病そのものへの直接的インパクトはやや薄いため見送り。"
+    },
+    {
+      "pmid": "42650060",
+      "title": "Swimming Upstream to Understand CAKUT: Zebrafish Models",
+      "reason": "ゼブラフィッシュを用いた基礎研究であり、臨床応用までの距離が大きいため優先度を下げた。"
+    }
+  ]
+}
