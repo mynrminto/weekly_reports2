@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-07",
+  "search": {
+    "query": "(pediatric OR paediatric OR children OR childhood) AND (kidney disease OR nephrology OR nephrotic OR nephritis OR renal)",
+    "datetype": "edat",
+    "date_from": "2026-08-31",
+    "date_to": "2026-09-07",
+    "total_hits_broad": 171,
+    "total_hits_quality_filtered": 18
+  },
+  "selected": [
+    {
+      "pmid": "42691062",
+      "title": "Efficacy and safety of 5-day versus 7-day antibiotic therapy for spontaneous bacterial peritonitis in children with idiopathic nephrotic syndrome: an open-label randomized controlled trial",
+      "journal": "Journal of Tropical Pediatrics",
+      "date": "2026-08-20",
+      "type": "Randomized Controlled Trial (non-inferiority)",
+      "doi": "10.1093/tropej/fmag060",
+      "url": "https://doi.org/10.1093/tropej/fmag060",
+      "one_line": "特発性ネフローゼ症候群の小児における特発性細菌性腹膜炎(SBP)に対し、単施設RCT(50例)で5日間の静注セフトリアキソン投与が7日間投与に対して臨床的複合アウトカムで非劣性であることを示した。",
+      "take_home": [
+        "ネフローゼ症候群の小児のSBPに対し、5日間のセフトリアキソン静注は7日間投与と比べ臨床的複合アウトカム(発熱・腹痛・圧痛の消失)で非劣性が確認された(100% vs 88%、非劣性マージン-15%以内)。",
+        "細菌学的治癒率は両群とも96%と同等で、追加抗菌薬を要した割合(16% vs 20%)や入院期間(10日 vs 11日)にも有意差はなく、セフトリアキソン関連の有害事象は両群ともなかった。",
+        "抗菌薬投与期間の短縮は入院負担軽減につながる可能性があるが、腹水中細胞数による細胞学的反応の非劣性は結論づけられておらず、多施設での追加検証が望まれる。"
+      ]
+    },
+    {
+      "pmid": "42696018",
+      "title": "Safety and clinical outcomes of antithrombotic therapy in children and young adults with kidney failure on dialysis: a 10-year single-center retrospective cohort study",
+      "journal": "Pediatric Nephrology",
+      "date": "2026-09-04",
+      "type": "Retrospective Cohort Study",
+      "doi": "10.1007/s00467-026-07523-z",
+      "url": "https://doi.org/10.1007/s00467-026-07523-z",
+      "one_line": "透析中の小児・若年成人77例を対象とした10年間の単施設後方視的コホートで、42.9%が抗血栓療法を受け、出血合併症は9.1%と限定的で、血栓再発はアドヒアランス不良例に集中していたことを報告した。",
+      "take_home": [
+        "透析中の小児・若年成人(23歳未満)77例のうち42.9%が抗血栓療法(主に低分子ヘパリン)を受けており、急性血栓イベントや血栓症既往に基づく二次予防が主な適応だった。",
+        "出血合併症は33例中3例(9.1%)にとどまり、いずれも大出血ではなく可逆化薬や輸血を要した例もなかった――小児・若年層における抗血栓療法の安全性を支持するデータである。",
+        "血栓再発は5例(15.2%)にみられたが、うち4例はアドヒアランス不良、1例は治療中断後に発生しており、遵守と綿密なモニタリングが再発予防の鍵になる。年齢特有のエビデンスが乏しい領域を補うデータである。"
+      ]
+    },
+    {
+      "pmid": "42696080",
+      "title": "Comparative analysis of kidney growth and function in children with different types of unilateral congenital renal anomalies: a 2 year follow-up study",
+      "journal": "International Urology and Nephrology",
+      "date": "2026-09-04",
+      "type": "Prospective Multicenter Comparative Study",
+      "doi": "10.1007/s11255-026-05369-w",
+      "url": "https://doi.org/10.1007/s11255-026-05369-w",
+      "one_line": "片側性先天性腎異常(腎無形成・低形成・異所性腎・MCDK)のある小児130例(患者71・対照59)を2年間追跡した多施設研究で、異常のタイプごとに異なる代償性成長パターンを示した。",
+      "take_home": [
+        "腎無形成群は2年間で腎容積の代償性肥大(Zスコア上昇)が最も明確だったが、アルブミン尿は他群より高く経時的に増加し、拡張期血圧もわずかに上昇した。",
+        "腎低形成・異所性腎群は腎容積Zスコアがむしろ低下したが、eGFRは改善し、アルブミン尿は低値を維持しており、腎容積の変化だけでは機能予後を予測できないことを示唆する。",
+        "観察期間中に進行性の高血圧は認められず、幼児期から学童期にかけては非薬物的な血圧管理で十分な可能性がある一方、代償性成長の「最適な時間窓」についてはさらなる長期研究が必要である。"
+      ]
+    }
+  ],
+  "not_selected_this_week": [
+    {
+      "pmid": "42697975",
+      "title": "Cystinosis-associated metabolic bone disease: pathogenesis and outcome",
+      "reason": "腎性ファンコニ症候群を伴う稀少遺伝性疾患の病態レビューとして質は高いが、機序中心の総説であり、今週選定した3本(感染症管理・透析合併症・先天性腎異常)との多様性を優先し見送り。"
+    },
+    {
+      "pmid": "42690101",
+      "title": "Outcome of Children Treated with Rituximab for Steroid-Resistant Nephrotic Syndrome: Renal Histopathology as a Response Marker",
+      "reason": "臨床的に重要だが、今週採用したSBP-RCTと同じネフローゼ症候群領域で主題が重複するため見送り。"
+    },
+    {
+      "pmid": "42684402",
+      "title": "Training programs for families of children on home peritoneal dialysis: a scoping review",
+      "reason": "家族支援・教育プロセスに関するスコーピングレビューで有用だが、臨床アウトカムへの直接的インパクトは今週の3本に比べ小さいため見送り。"
+    },
+    {
+      "pmid": "42686227",
+      "title": "Wilms Tumor",
+      "reason": "総説として質は高いが、既知の内容の整理が中心で新規性のインパクトが今週の3本に比べ小さいため見送り。"
+    }
+  ]
+}
