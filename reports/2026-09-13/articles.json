@@ -1,0 +1,95 @@
+{
+  "date": "2026-09-13",
+  "search": {
+    "query": "(pediatric OR paediatric OR children OR childhood) AND (kidney disease OR nephrology OR nephrotic OR nephritis OR renal)",
+    "datetype": "edat",
+    "date_from": "2026-09-06",
+    "date_to": "2026-09-13",
+    "total_hits_broad": 182,
+    "total_hits_quality_filtered": 27
+  },
+  "selected": [
+    {
+      "pmid": "42701904",
+      "title": "Outcomes and learning curve of single-kidney transplantation from small pediatric donors in children: a retrospective cohort study with meta-analysis",
+      "journal": "Pediatric Surgery International",
+      "date": "2026-09-06",
+      "type": "Retrospective Cohort Study with Meta-Analysis",
+      "doi": "10.1007/s00383-026-06622-0",
+      "url": "https://doi.org/10.1007/s00383-026-06622-0",
+      "one_line": "体重15kg以下または3歳以下の小さいドナーからの小児片腎移植について、単施設後方視的コホート(77例)とメタ解析(7研究527例)を組み合わせて転帰と学習曲線を検討した。",
+      "take_home": [
+        "小ドナー(体重≤15kg/年齢≤3歳)からの片腎移植は、大ドナー群と比べ1年生着率が有意に低く(73.1% vs 100%)、急性拒絶も多かった(19.2% vs 2.0%)が、血栓症・遅延性グラフト機能・患者生存率・1年後eGFRには差がなかった。",
+        "CUSUM学習曲線分析では症例16例目以降に成績の変曲点があり、手術時間も187.6分から146.3分に短縮――経験の蓄積により早期グラフト喪失のリスクが低下することを示唆する。",
+        "メタ解析(7研究527例)では1年患者生存率98%・生着率91%と良好で、小ドナーからの片腎移植は経験豊富な施設では臓器不足対策として実現可能な選択肢となりうるが、長期成績の前向き検証が必要。"
+      ]
+    },
+    {
+      "pmid": "42700261",
+      "title": "Ultrasound pattern of upper urinary tract remodeling after pyeloplasty: a prospective multicentric study",
+      "journal": "Pediatric Surgery International",
+      "date": "2026-09-05",
+      "type": "Prospective Multicenter Study",
+      "doi": "10.1007/s00383-026-06557-6",
+      "url": "https://doi.org/10.1007/s00383-026-06557-6",
+      "one_line": "腎盂尿管移行部狭窄に対する腎盂形成術後、上部尿路の超音波所見がどう経時的に改善していくかを前向き多施設研究(31例)で追跡し、術後2年間の具体的な回復パターンを定量的に示した。",
+      "take_home": [
+        "腎盂形成術後の腎盂前後径(APD)は術後2ヶ月で中央値30%、6ヶ月で60%減少し、それ以降の変化は緩やかだった――術後早期のフォローアップ計画に有用な目安となる。",
+        "患側の皮質厚は術前4.9mmから2年後8mmへと約63%増加したが、正常値には届かないことが多く、構造的回復には限界があることが示唆された。",
+        "腎長径も患側・健側ともに経時的に増加しており、術後の画像フォローは単一時点でなく複数時点での評価が望ましい。"
+      ]
+    },
+    {
+      "pmid": "42716676",
+      "title": "Discordance between disease activity and long-term outcomes in DNASE1L3 deficiency: a multicentre longitudinal cohort study",
+      "journal": "Lupus Science & Medicine",
+      "date": "2026-09-09",
+      "type": "Multicenter Longitudinal Cohort Study",
+      "doi": "10.1136/lupus-2026-002175",
+      "url": "https://doi.org/10.1136/lupus-2026-002175",
+      "one_line": "早期発症SLE/HUVSの原因となる稀な単一遺伝子疾患DNASE1L3欠損症について、オマーン・UAEの小児リウマチ専門施設における過去最大規模の多施設後方視的縦断コホート(57例)で、疾患活動性の改善にもかかわらず臓器障害が進行しうることを報告した。",
+      "take_home": [
+        "DNASE1L3欠損症57例(診断時年齢中央値5歳)の追跡で、SLE疾患活動性スコア(SLEDAI)は有意に改善した(中央値9→4)にもかかわらず、臓器障害指数(SDI)は数値上悪化する傾向がみられた。",
+        "ループス腎炎の合併率は34%から46%へ、骨粗鬆症は23%から41%へと増加傾向を示し、見かけ上の疾患鎮静化がsubclinicalな臓器障害の進行を隠している可能性が示唆された。",
+        "死亡率も8.8%から13.5%へ数値上増加しており、小児期から成人期への移行期における継続的なモニタリングと移行期医療(transitional care)の最適化が重要である。"
+      ]
+    }
+  ],
+  "not_selected_this_week": [
+    {
+      "pmid": "42717002",
+      "title": "Adequacy of dialysis in children and adolescents: more than just Kt/V",
+      "reason": "小児透析の実臨床に極めて有用な総説だが、新規の一次データを伴わないため、コホート・メタ解析データのある今週の3本を優先。"
+    },
+    {
+      "pmid": "42720730",
+      "title": "Neonatal acute kidney injury and the patent ductus arteriosus",
+      "reason": "新生児AKIとPDAの関連を扱う重要な総説だが、総説中心で新規データがないため、今週採用した移植・画像フォロー・DNASE1L3コホートの多様性を優先し見送り。"
+    },
+    {
+      "pmid": "42704298",
+      "title": "Contemporary management of pediatric renal trauma",
+      "reason": "実臨床に有用なレビューだが、新規性の点で一次データのある今週の3本を優先。"
+    },
+    {
+      "pmid": "42723799",
+      "title": "Oral dysbiosis in children with renal failure: a systematic review",
+      "reason": "ユニークな切り口だが対象研究が7件と少なくエビデンスの確実性が低いため、質と症例数を優先し見送り。"
+    },
+    {
+      "pmid": "42712521",
+      "title": "Real-world experience with belimumab in lupus nephritis: insights from the Spanish cohort",
+      "reason": "大規模な多施設コホートだが対象は主に成人のループス腎炎患者であり、小児腎臓病特化のテーマとの整合性を優先し見送り。"
+    },
+    {
+      "pmid": "42718926",
+      "title": "Efficacy and safety of anticoagulation for pediatric cerebral sinovenous thrombosis: systematic review and meta-analysis",
+      "reason": "小児対象の質の高いメタ解析だが、脳静脈洞血栓症であり腎臓病領域との関連が薄いため見送り。"
+    },
+    {
+      "pmid": "42713205",
+      "title": "Fetal Hydronephrosis: A Narrative Review of Diagnostic Pathways, Prognostic Markers, and Management",
+      "reason": "頻度の高い臨床トピックの良質な総説だが新規データを伴わないため、一次データのある今週の3本を優先。"
+    }
+  ]
+}
