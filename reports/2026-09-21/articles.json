@@ -1,0 +1,90 @@
+{
+  "date": "2026-09-21",
+  "search": {
+    "query": "(pediatric OR paediatric OR children OR childhood) AND (kidney disease OR nephrology OR nephrotic OR nephritis OR renal)",
+    "datetype": "edat",
+    "date_from": "2026-09-14",
+    "date_to": "2026-09-21",
+    "total_hits_broad": 153,
+    "total_hits_quality_filtered": 21
+  },
+  "selected": [
+    {
+      "pmid": "42762409",
+      "title": "A new frontier in edema management: the potential of tolvaptan for refractory edema with hyponatremia in pediatric nephrotic syndrome",
+      "journal": "Clinical and Experimental Nephrology",
+      "date": "2026-09-19",
+      "type": "Prospective Before-After Intervention Study",
+      "doi": "10.1007/s10157-026-02939-1",
+      "url": "https://doi.org/10.1007/s10157-026-02939-1",
+      "one_line": "フロセミド抵抗性の低ナトリウム血症合併ネフローゼ症候群浮腫を持つ小児60例に、バソプレシン受容体拮抗薬トルバプタンを48時間投与し、体重・尿量・血清ナトリウムの変化を前後比較で検討した単群介入研究。",
+      "take_home": [
+        "furosemide抵抗性(体重減少3%未満)かつ低Na血症(Na<130mEq/L)を伴う小児ネフローゼ浮腫60例に、低用量トルバプタン(0.3〜1mg/kg/日)を48時間投与したところ、体重(21.98→21.02kg)・24時間尿量(700→1200mL/日)・血清Na(125.87→131.18mEq/L)がいずれも有意に改善した(すべてp<0.001〜0.0001)。",
+        "投与前に低容量血症・肝酵素上昇・eGFR<60mL/min/1.73m2を除外した上での適用であり、投与後48時間で有意な肝酵素上昇も認めなかったが、対象は厳密に選択された集団である点に注意が必要。",
+        "単群・前後比較デザイン(対照群なし)であり、今回の良好な結果を実診療に一般化する前に、無作為化比較試験による安全性・有効性の検証が求められる。"
+      ]
+    },
+    {
+      "pmid": "42762301",
+      "title": "Predictors of clinically significant hemorrhage following ultrasound-guided percutaneous renal biopsy in pediatric patients",
+      "journal": "Pediatric Radiology",
+      "date": "2026-09-19",
+      "type": "Retrospective Cohort Study",
+      "doi": "10.1007/s00247-026-06794-w",
+      "url": "https://doi.org/10.1007/s00247-026-06794-w",
+      "one_line": "2010〜2024年に超音波ガイド下経皮的腎生検(自己腎82%・移植腎18%)を受けた小児207例を対象に、生検後の臨床的に重要な出血(Hb低下・血腫)の予測因子を、12項目の候補因子について検討した後方視的研究。",
+      "take_home": [
+        "生検直後の超音波検査で認めた大きめの腎周囲血腫(5mL以上)が、4〜6時間後のヘモグロビン15g/L以上の低下と有意に関連した(オッズ比4.6、95%CI 1.5-13.4、p=0.004)。",
+        "血腫(5mL以上)は207例中27例(13%)、臨床的に重要なHb低下は23例(11%)に発生しており、生検後合併症は稀ではない。",
+        "年齢・凝固能など事前に想定した他の11因子は、多重比較補正後には有意な関連を示さず、生検前のリスク層別化だけに頼らず、生検直後の画像評価が出血リスクの早期発見に重要である。"
+      ]
+    },
+    {
+      "pmid": "42760017",
+      "title": "Frailty in children with chronic kidney disease and kidney failure (with companion perspective PMID 42760016, \"Growing old before growing up\")",
+      "journal": "Kidney International",
+      "date": "2026-10",
+      "type": "Commentary + Companion Patient/Caregiver Perspective",
+      "doi": "10.1016/j.kint.2026.07.005",
+      "url": "https://doi.org/10.1016/j.kint.2026.07.005",
+      "one_line": "小児CKD・腎不全における「フレイル」は、成人のような機能低下ではなく発達可能性の喪失として現れると指摘し、標準化された年齢相応のスクリーニングと早期の多職種介入の必要性を論じたKidney International誌のコメンタリー。同号には養育者による手記(PMID 42760016)が併載されている。",
+      "take_home": [
+        "小児のフレイルは成人と異なり『機能低下』ではなく『発達可能性の喪失』として現れるため、成人向けのフレイル評価尺度をそのまま適用することはできない。",
+        "成人のフレイルとは対照的に、小児期のフレイルは可逆的である可能性があり、標準化・年齢相応のスクリーニングによる早期発見が、成長・発達を最大化するための重要な介入の窓になりうる。",
+        "併載された養育者の手記(PMID 42760016)は、小児CKDに伴う身体的・心理社会的な負荷が発達段階を通じて蓄積し、長期的な生活参加やQOLを損なうさまを描いており、eGFRだけでなくフレイルを日常診療で定期的に評価・管理する必要性を裏付けている。"
+      ]
+    }
+  ],
+  "not_selected_this_week": [
+    {
+      "pmid": "42760401",
+      "title": "Risk factors for acute kidney injury after pediatric liver transplantation: a systematic review and meta-analysis",
+      "reason": "17研究2986例を統合した質の高いメタ解析だが、主眼は肝移植周術期管理であり小児腎臓病そのものへの焦点はやや薄いため、今週は治療・手技合併症・フレイルという多様性を優先し見送り。"
+    },
+    {
+      "pmid": "42748479",
+      "title": "Predictors of chronic kidney disease in children who underwent surgical correction of congenital heart disease: a long-term follow-up cohort study",
+      "reason": "先天性心疾患術後のCKD予測因子を扱う良質な後方視的コホートだが、対象規模がやや小さく、生検合併症の予測因子研究とテーマが近いため見送り。"
+    },
+    {
+      "pmid": "42751027",
+      "title": "Growth and development following paediatric kidney transplantation: Mechanisms, influencing factors, and clinical management",
+      "reason": "移植後の成長障害を扱う良質な総説だが、新規の一次データを伴わないため、一次データ・新規概念を含む今週の3本を優先。"
+    },
+    {
+      "pmid": "42746897",
+      "title": "The Palliation of Pediatric Kidney Transplantation",
+      "reason": "小児腎移植における緩和的視点を扱う重要なテーマだが総説的内容であり、フレイルの話題と重複するため見送り。"
+    },
+    {
+      "pmid": "42750689",
+      "title": "Malignant rhabdoid tumor of the kidney in a 7-month-old infant: A rare case report with molecular confirmation of SMARCB1 deletion",
+      "reason": "症例報告であり、一般化可能性の観点から今週はコホート・介入研究を優先。"
+    },
+    {
+      "pmid": "42747330",
+      "title": "Guidelines on the Use of Therapeutic Apheresis in Clinical Practice-Evidence-Based Approach From the Writing Committee of the American Society for Apheresis: The Tenth Special Issue",
+      "reason": "アフェレーシス全般に関する重要なガイドラインだが小児腎臓病に特化した内容ではないため見送り。"
+    }
+  ]
+}
