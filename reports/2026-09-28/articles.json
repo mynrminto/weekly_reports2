@@ -1,0 +1,90 @@
+{
+  "date": "2026-09-28",
+  "search": {
+    "query": "(pediatric OR paediatric OR children OR childhood) AND (kidney disease OR nephrology OR nephrotic OR nephritis OR renal)",
+    "datetype": "edat",
+    "date_from": "2026-09-21",
+    "date_to": "2026-09-28",
+    "total_hits_broad": 213,
+    "total_hits_quality_filtered": 47
+  },
+  "selected": [
+    {
+      "pmid": "42800615",
+      "title": "Long-term outcomes of childhood nephrotic syndrome",
+      "journal": "Kidney International",
+      "date": "2026-09-26",
+      "type": "総説（レビュー）",
+      "doi": "10.1016/j.kint.2026.06.054",
+      "url": "https://doi.org/10.1016/j.kint.2026.06.054",
+      "one_line": "小児の特発性ネフローゼ症候群(INS)における長期予後を、ステロイド反応性・遺伝学的病因・臨床フェノタイプ別にまとめ、成人期への移行期ケアの課題まで論じたKidney International誌の総説。",
+      "take_home": [
+        "ステロイド感受性(SSNS)かステロイド抵抗性(SRNS)かが最大の予後予測因子であり、初発SRNSの最大1/3はモノジェニック(単一遺伝子)病因である。",
+        "SSNSは思春期を過ぎても再発しうる(成人期に約1/4が再発)。頻回再発・ステロイド依存の既往と二次治療(免疫抑制薬)の必要性が持続的再発の予測因子であり、SSNSでの腎不全・死亡はまれ。",
+        "一方SRNSでは成長障害・肥満・心血管リスク・骨粗鬆症・カルシニューリン阻害薬による腎毒性・進行性CKDなど合併症リスクが高く、モノジェニックまたは多剤抵抗性のSRNSでは腎不全リスクが3〜4倍高い。"
+      ]
+    },
+    {
+      "pmid": "42799056",
+      "title": "Time to diagnosis of acute kidney injury and its predictors among outborn neonates in India: a competing-risk analysis of tele-ICU network data (2022-2024)",
+      "journal": "The Lancet Regional Health - Southeast Asia",
+      "date": "2026-09-18",
+      "type": "多施設後方視的研究（competing-risk analysis）",
+      "doi": "10.1016/j.lansea.2026.100869",
+      "url": "https://doi.org/10.1016/j.lansea.2026.100869",
+      "one_line": "インド27施設のtele-NICUネットワークデータを用い、院外出生(outborn)新生児570例における急性腎障害(AKI)の診断までの時間と予測因子を、死亡・医学的助言に反する退院という競合イベントを考慮して検討した研究。",
+      "take_home": [
+        "院外出生新生児570例の29.8%(170例)がKDIGO基準でAKIを発症し、診断までの時間は中央値で入院後わずか2日だった(5日時点の累積発症率0.23)。",
+        "脱水(ハザード比3.63)、人工呼吸(ハザード比1.84)、血管収縮薬使用(ハザード比1.33)が早期AKI発症の予測因子であり、入院直後が腎保護的介入の重要なウィンドウとなる。",
+        "AKIを発症した新生児は死亡率(13.5% vs 5.3%)・医学的助言に反する退院率(34.7% vs 25.2%)がいずれも有意に高く、搬送・紹介体制の強化がAKI予防に資する可能性がある。"
+      ]
+    },
+    {
+      "pmid": "42800841",
+      "title": "Residual hydronephrosis after paediatric pyeloplasty: longitudinal APD reference curves",
+      "journal": "World Journal of Urology",
+      "date": "2026-09-26",
+      "type": "後方視的コホート研究（縦断的基準曲線の作成）",
+      "doi": "10.1007/s00345-026-06818-y",
+      "url": "https://doi.org/10.1007/s00345-026-06818-y",
+      "one_line": "腎盂尿管移行部狭窄に対する腎盂形成術を受けた小児566腎(550人)のデータから、術前拡張度と術後経過時間に応じた腎盂前後径(APD)の基準曲線を作成し、再手術リスクとの関連を検討した研究。",
+      "take_home": [
+        "術前APDと術後経過時間に応じたAPD基準曲線を作成。術後6ヶ月時点の基準値(90パーセンタイル)は、術前APD15mmで23.0mm、70mmで38.4mmと、術前拡張の程度によって目安が異なる。",
+        "基準曲線の上限(90パーセンタイル)を上回るAPDを示した腎は、再手術のリスクが約14倍(リスク比14.23、95%信頼区間4.49-45.08)高かった。",
+        "『残存水腎症の有無』だけでなく、術前拡張度・時間経過に応じた基準値との比較(3〜24ヶ月対応のWeb計算機あり)によって、追加評価が必要な患児を早期に見分けられる可能性がある。"
+      ]
+    }
+  ],
+  "not_selected_this_week": [
+    {
+      "pmid": "42801414",
+      "title": "The prevalence of IgA nephropathy in Japan: results from a nationwide survey",
+      "reason": "20年ぶりの日本全国調査で有意義なデータだが、対象が全年齢層であり小児に限定した内容ではないため、今週は小児特化の3本を優先し見送り。"
+    },
+    {
+      "pmid": "42801339",
+      "title": "Furosemide plus metolazone versus furosemide alone for nephrotic edema (RCT)",
+      "reason": "質の高いRCTだが、ネフローゼ症候群というテーマがトピック1(長期予後レビュー)と重複するため見送り。"
+    },
+    {
+      "pmid": "42801413",
+      "title": "Adrenal insufficiency after steroid therapy in childhood idiopathic nephrotic syndrome",
+      "reason": "実用的なスクリーニング指標を示す良質な研究だが、ネフローゼ症候群というテーマがトピック1と重複するため見送り。"
+    },
+    {
+      "pmid": "42772450",
+      "title": "CAKUT: pediatric-to-adult transition review",
+      "reason": "総説として質は高いが新規の一次データを伴わないため、一次データを含む今週の3本を優先。"
+    },
+    {
+      "pmid": "42787374",
+      "title": "Complement-targeted therapeutics in pediatric aHUS/C3G/IgAN",
+      "reason": "重要な領域を扱う総説だが一次データがなく、今週は実データに基づく3本を優先。"
+    },
+    {
+      "pmid": "42769874",
+      "title": "Comparison of a new fully synthetic perfusion solution to Belzer MPS for hypothermic oxygenated perfusion of porcine kidneys",
+      "reason": "腎移植領域の基礎研究として興味深いが、ブタを用いた前臨床モデルであり小児臨床への直接の関連は薄いため見送り。"
+    }
+  ]
+}
