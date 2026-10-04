@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-04",
+  "search": {
+    "query": "(pediatric OR paediatric OR children OR childhood) AND (kidney disease OR nephrology OR nephrotic OR nephritis OR renal)",
+    "datetype": "edat",
+    "date_from": "2026/09/27",
+    "date_to": "2026/10/04",
+    "total_hits_broad": 171,
+    "total_hits_quality_filtered": 29
+  },
+  "selected": [
+    {
+      "pmid": "42803578",
+      "title": "Clinical Practice Guideline for the Diagnosis and Treatment of Urinary Tract Infection in Children From 8 Days to 5 Years of Age.",
+      "journal": "Pediatrics",
+      "date": "2026",
+      "type": "臨床診療ガイドライン（AAP）＋技術報告 PMID 42803594",
+      "doi": "10.1542/peds.2026-078565",
+      "one_line": "AAPが2011年版を改訂。生後8日〜5歳の低複雑性小児の診断・抗菌薬治療・画像・予防を扱い、強い推奨2・条件付き推奨6・グッドプラクティス4を提示。",
+      "take_home": [
+        "2011年以来の改訂で、対象は生後8日〜5歳の低医学的複雑性の小児。強い推奨2、条件付き推奨6、グッドプラクティス4。",
+        "技術報告では短期（7日以内）・経口治療が有望で、持続的予防投与は耐性菌リスクに注意。ただし確実性は低〜非常に低い。",
+        "症状発現から72時間以内の評価は腎瘢痕が少ない可能性があり、早期受診・早期評価が重要。"
+      ],
+      "url": "https://doi.org/10.1542/peds.2026-078565",
+      "summary": "2011年版を更新したAAPの診療ガイドライン。GRADEで確実性を評価し、診断、抗菌薬治療、画像検査、膀胱尿管逆流（VUR）や排尿排便機能障害（BBD）の予防戦略を扱う。同時掲載の技術報告（PMID 42803594、60研究を含む5つの系統的レビュー）では、全体の確実性は低〜非常に低いとされつつ、7日以内の短期投与で再発が増えない可能性・有害事象が減る可能性、経口療法が点滴（または点滴→経口）と同程度の可能性、持続的予防投与では突破感染や腎瘢痕が同程度でも耐性菌UTIが増える可能性、症状発現から72時間以内の評価で腎瘢痕が少ない可能性が示された。"
+    },
+    {
+      "pmid": "42801339",
+      "title": "Combination therapy with furosemide and metolazone as compared to furosemide alone for treatment of edema in children with nephrotic syndrome: a randomized controlled trial.",
+      "journal": "European Journal of Pediatrics",
+      "date": "2026-09-27",
+      "type": "ランダム化比較試験（50例）",
+      "doi": "10.1007/s00431-026-07445-w",
+      "one_line": "1〜14歳の浮腫を伴うネフローゼ症候群50例で、フロセミド＋メトラゾンとフロセミド単独を比較。48時間尿量に有意差なし。",
+      "take_home": [
+        "フロセミドにメトラゾンを加えても、48時間尿量は有意に増えなかった（3.13 vs 2.96 mL/kg/h）。",
+        "未調整で見えた尿量増加はベースライン調整後に有意でなくなり、解釈に注意が必要。",
+        "併用群の16%が体重減少のため中止。症例数50と小さく、定型的な上乗せ併用は支持されない。"
+      ],
+      "url": "https://doi.org/10.1007/s00431-026-07445-w",
+      "summary": "インド・AIIMSブバネシュワルで実施。中等度〜重度の浮腫を伴う1〜14歳のネフローゼ症候群児50人を併用群・単独群に25人ずつ割り付け、48時間の累積尿量を主要評価項目とした。平均尿量は併用群3.13、単独群2.96 mL/kg/hで有意差なし。ベースラインからの尿量変化は未調整で併用群が大きかった（p=0.03）が、ベースライン調整のANCOVAでは有意でなくなった。電解質異常・体重減少率・在院日数は同程度で、併用群の16%は著明な体重減少のため治療中止となった。著者らは上乗せ併用の定型的使用は推奨せず、仮説生成的としている。"
+    },
+    {
+      "pmid": "42812492",
+      "title": "Monogenic Kidney Disorders as Hidden Drivers of Electrolyte Imbalance and Hypertension.",
+      "journal": "Electrolyte & Blood Pressure",
+      "date": "2026-08-31",
+      "type": "総説",
+      "doi": "10.5049/EBP.2026.24.e15",
+      "one_line": "リドル症候群、ゴードン症候群、みかけの鉱質コルチコイド過剰を例に、遠位ネフロンの輸送異常と血圧の関係を整理した総説。",
+      "take_home": [
+        "リドル症候群はENaCの機能獲得変異で、低カリウム血症とレニン・アルドステロン抑制を示す。",
+        "ゴードン症候群はWNK-SPAK経路の異常でNCCが過活動となり、高血圧と高カリウム血症が併存する。",
+        "非典型・治療抵抗性の高血圧では、電解質パターンから単一遺伝子疾患を疑う視点が有用。"
+      ],
+      "url": "https://doi.org/10.5049/EBP.2026.24.e15",
+      "summary": "ソウル大学小児科による総説。遠位ネフロンのNCCとENaCが塩分・カリウム・血圧の調節を担うことを背景に、リドル症候群（ENaCの機能獲得変異で、ナトリウム貯留・低カリウム血症・レニン/アルドステロン抑制）、ゴードン症候群（偽性低アルドステロン症2型、WNK-SPAK経路の異常でNCC過活動、高血圧と高カリウム血症）、みかけの鉱質コルチコイド過剰（11β-HSD2欠損でコルチゾールが鉱質コルチコイド受容体を活性化）を解説。非典型または治療抵抗性の高血圧では、精密診断・治療につながる可能性がある。"
+    }
+  ],
+  "not_selected_this_week": [
+    {
+      "pmid": "42803594",
+      "reason": "ガイドライン(42803578)の技術報告のため同トピックに統合"
+    },
+    {
+      "pmid": "42803590",
+      "reason": "VUR診断の超音波SR。UTIガイドラインと主題が重複"
+    },
+    {
+      "pmid": "42803592",
+      "reason": "UTI診断の補遺。UTIガイドラインと主題が重複"
+    },
+    {
+      "pmid": "42798829",
+      "reason": "cSLEの免疫発達に関する総説。腎臓への焦点が弱い"
+    },
+    {
+      "pmid": "42820411",
+      "reason": "cSLEの遺伝・治療総説。腎臓への焦点が弱い"
+    },
+    {
+      "pmid": "42824143",
+      "reason": "症例報告（レニノーマ）"
+    },
+    {
+      "pmid": "42805326",
+      "reason": "奇形腫様ウィルムス腫瘍のSR。腫瘍学寄り"
+    }
+  ]
+}
