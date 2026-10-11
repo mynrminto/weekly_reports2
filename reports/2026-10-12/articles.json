@@ -1,0 +1,86 @@
+{
+ "date": "2026-10-12",
+ "window": "2026-10-05..2026-10-12 (edat)",
+ "total_hits": 151,
+ "returned": 30,
+ "selected": [
+  {
+   "pmid": "42853503",
+   "title": "Prediction of Severe Acute Kidney Injury by Positive Renal Angina Index and Cystatin C in Children with Septic Shock: A Diagnostic Accuracy Study",
+   "journal": "Indian Pediatrics",
+   "date": "2026-10-09",
+   "doi": "10.1007/s13312-026-00431-3",
+   "type": "診断精度研究（PICU連続60例）",
+   "short": "敗血症性ショック児の重症AKIを腎アンギナ指数で早期予測",
+   "one_line": "腎アンギナ指数は感度81.8%・特異度92.6%（AUROC 0.81）、血清シスタチンC併用でAUROC 0.99。",
+   "summary": "PICUに入室した敗血症性ショックの小児60例を対象に、腎アンギナ指数（RAI）と血清・尿シスタチンCの、7日以内の重症AKI予測能を比較した診断精度研究。RAI陽性は29例（48.3%）。重症AKI予測は感度81.8%、特異度92.6%、AUROC 0.81。血清シスタチンCのAUROCは0.89、尿は0.72、RAI+血清シスタチンCで0.99。RRT・人工呼吸・28日死亡のAUROCは0.84/0.73/0.74。単施設・小規模のため外部検証が必要。",
+   "take_home": [
+    "RAIは敗血症性ショックの小児で7日以内の重症AKIを感度82%・特異度93%で予測した",
+    "血清シスタチンC併用でAUROC 0.99だが、60例の単施設研究で外部検証が必要",
+    "陽性児では腎毒性薬の回避や尿量・クレアチニンの密な観察を前倒しする合図になり得る"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42853503/"
+  },
+  {
+   "pmid": "42853404",
+   "title": "Outcomes of modified single trocar laparoscopic catheter placement for maintenance peritoneal dialysis in children",
+   "journal": "Pediatric Nephrology",
+   "date": "2026-10-09",
+   "doi": "10.1007/s00467-026-07590-2",
+   "type": "後ろ向きコホート（19例）",
+   "short": "単孔式腹腔鏡下PDカテーテル留置の5年成績",
+   "one_line": "当日開始PDでも周術期合併症・リーク・ヘルニアなし、機械的開存率88.1%。交換の主因は感染。",
+   "summary": "ベトナム国立小児病院の、改変単孔式腹腔鏡下テンコフカテーテル挿入（19例、全例当日PD開始）の後ろ向きコホート。追跡中央値58.2か月（34,109カテーテル日）。周術期合併症、リーク、ヘルニア、移動はなし。移植打ち切りのカテーテル関連失敗なし生存率は1年67.4%、2〜5年61.8%、機械的開存率88.1%。交換10件の内訳はMRSA出口部感染6、真菌性腹膜炎2、大網巻き付き2（後者は大網部分切除を行わなかった5例内）。",
+   "take_home": [
+    "単孔式腹腔鏡下挿入は当日PD開始でもリーク・ヘルニアなく機械的開存率88%だった",
+    "交換の主因は感染で、手技に加え感染予防手順の最適化が必要",
+    "19例の後ろ向き研究であり、大網部分切除の有用性は前向き検討を待つ仮説"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42853404/"
+  },
+  {
+   "pmid": "42858278",
+   "title": "The Solitary Functioning Kidney: From Pathophysiology to Long-Term Management",
+   "journal": "American Journal of Nephrology",
+   "date": "2026-10-10",
+   "doi": "10.1159/ajn/ablag029",
+   "type": "レビュー",
+   "short": "孤立機能腎：病態から長期管理までの統合的枠組み",
+   "one_line": "先天性・後天性の孤立機能腎を生涯にわたり整理し、動的リスク層別化を提案（要検証）。",
+   "summary": "先天性（低形成・異形成・CAKUTなど）と後天性（腎摘出・生体腎ドナーなど）の孤立機能腎を一つの枠組みで整理したレビュー。進行の主因は代償性肥大と糸球体過剰濾過。診断は超音波・MRI、腎機能、NGALやシスタチンCなど。予後は原因・年齢・代償性腎成長・尿路奇形・併存症・腎障害マーカーで評価し、血圧・蛋白尿管理、腎毒性回避、個別化フォローを推奨。提案の枠組みは概念的で前向き検証が必要と著者が明記。",
+   "take_home": [
+    "孤立機能腎は先天性でも後天性でもCKD/ESKDの危険因子で、機序は代償性肥大と過剰濾過",
+    "原因・年齢・腎成長・尿路奇形・蛋白尿などで層別化し、画像とバイオマーカーを併用",
+    "血圧・蛋白尿管理と腎毒性回避、個別化した長期フォローが基本。提案枠組みは未検証"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42858278/"
+  }
+ ],
+ "not_selected_this_week": [
+  {
+   "pmid": "42848422",
+   "title": "Four cases of type III collagen deposition glomerulopathy",
+   "reason": "症例報告（成人中心）"
+  },
+  {
+   "pmid": "42858063",
+   "title": "Conception methods and perinatal outcomes among women with kidney disorders",
+   "reason": "母体腎疾患が主題で小児腎臓病との関連が薄い"
+  },
+  {
+   "pmid": "42854054",
+   "title": "Outcomes of conservative management in pediatric isolated blunt renal trauma",
+   "reason": "外傷領域で腎臓内科との関連が薄い"
+  },
+  {
+   "pmid": "42857894",
+   "title": "Burkitt Lymphoma Presenting as Renal Failure",
+   "reason": "症例報告"
+  },
+  {
+   "pmid": "42852734",
+   "title": "IgG4-related kidney disease: treatment standard",
+   "reason": "主に成人"
+  }
+ ]
+}
