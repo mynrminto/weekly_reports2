@@ -11,34 +11,19 @@
   },
   "selected": [
     {
-      "pmid": "42857576",
-      "title": "Time-stratified prognostic factors for poor renal outcomes in childhood-onset lupus nephritis: a systematic review and meta-analysis",
-      "journal": "Frontiers in Immunology",
-      "date": "2026-10",
-      "type": "Systematic Review / Meta-analysis",
-      "doi": "10.3389/fimmu.2026.1939149",
-      "one_line": "小児発症ループス腎炎47研究を追跡期間(1年以内/1–2年/2年超)で層別し、多変量解析で示された腎予後不良因子を統合。",
+      "pmid": "42889599",
+      "title": "Translating the 2024 ACR lupus nephritis guidelines to pediatric practice",
+      "journal": "Frontiers in Pediatrics",
+      "date": "2026-10-01",
+      "type": "Review",
+      "doi": "10.3389/fped.2026.1970903",
+      "one_line": "2024年ACRループス腎炎ガイドラインを、KDIGO 2024・EULAR 2025と照合しつつ小児診療へ翻訳。成人由来の根拠の限界を整理。",
       "take_home": [
-        "年齢、eGFR低下、高血圧、再燃、6か月または12か月での腎非寛解などが腎予後不良と繰り返し関連していた。",
-        "ネフローゼ域蛋白尿とクレアチニン高値は、高バイアスリスク研究(47中23)を除くと頑健性が低下した。",
-        "追跡が長いほどCKD・末期腎不全の割合が高く、一度きりでなく動的なリスク再評価が重要。"
+        "2024年ACRガイドラインは成人と小児の両方に適用と明記したが、根拠の大部分は成人データ。",
+        "診断の流れや最初からの多剤併用など原則は小児にも通用しやすいが、ステロイド用量など数値的推奨はそのまま使えるとは限らない。",
+        "長期の生物学的製剤の安全性・成長・妊孕性・成人診療への移行は慎重に考えるべき領域で、小児専用の試験が必要。"
       ],
-      "url": "https://doi.org/10.3389/fimmu.2026.1939149"
-    },
-    {
-      "pmid": "42856850",
-      "title": "Clinical manifestations and proportions of severe outcomes in pediatric acute post-streptococcal glomerulonephritis: a systematic review and meta-analysis of predominantly hospital-based cohorts",
-      "journal": "Frontiers in Medicine",
-      "date": "2026-10",
-      "type": "Systematic Review / Meta-analysis",
-      "doi": "10.3389/fmed.2026.1953518",
-      "one_line": "小児APSGN 18研究・2,191例の臨床像と重い転帰の統合割合を算出(主に入院コホート)。",
-      "take_home": [
-        "入院コホートでは高血圧65.0%、急性腎障害/腎機能低下40.1%、肉眼的血尿47.5%と報告された。",
-        "重い合併症12.9%、腎代替療法4.0%だが、異質性が大きく(I²82–98%)半月体形成を含む複合の推定は不安定。",
-        "数値は入院例に偏る可能性があり一般集団の頻度ではない。急性期は血圧・体液量・腎機能の観察が基本。"
-      ],
-      "url": "https://doi.org/10.3389/fmed.2026.1953518"
+      "url": "https://doi.org/10.3389/fped.2026.1970903"
     },
     {
       "pmid": "42878858",
@@ -54,18 +39,38 @@
         "移植医と免疫検査室の定期的な対話がリスク評価の質を高める。"
       ],
       "url": "https://doi.org/10.1007/s00467-026-07567-1"
+    },
+    {
+      "pmid": "42889637",
+      "title": "Interactions between chronic kidney disease and hyperuricemia in children: mechanisms, clinical manifestations and management updates",
+      "journal": "Frontiers in Pediatrics",
+      "date": "2026-10-01",
+      "type": "Review",
+      "doi": "10.3389/fped.2026.1975951",
+      "one_line": "小児のCKDと高尿酸血症の双方向的関係(機序・臨床像・管理)を整理したレビュー。",
+      "take_home": [
+        "小児CKDと高尿酸血症は互いを悪化させる双方向の関係にあると考えられている。",
+        "尿酸は酸化ストレス・炎症・血管内皮機能障害を介して尿細管間質を傷害すると説明されている。",
+        "小児特化の疫学データとガイドラインは乏しく、管理は成人からの外挿が中心。個別化した判断と今後の研究が必要。"
+      ],
+      "url": "https://doi.org/10.3389/fped.2026.1975951"
     }
   ],
   "not_selected_this_week": [
     {
-      "pmid": "42889599",
-      "title": "Translating the 2024 ACR lupus nephritis guidelines to pediatric practice",
-      "reason": "有力だが、ループス腎炎は選定済み(PMID 42857576)と主題が重複するため次点。"
+      "pmid": "42857576",
+      "title": "Time-stratified prognostic factors ... childhood-onset lupus nephritis (SR/MA)",
+      "reason": "先週(2026-10-12号)で既に紹介済みのため除外。"
     },
     {
-      "pmid": "42889637",
-      "title": "Interactions between chronic kidney disease and hyperuricemia in children",
-      "reason": "ナラティブレビューで新規性が相対的に低い。"
+      "pmid": "42856850",
+      "title": "Clinical manifestations ... pediatric APSGN (SR/MA)",
+      "reason": "先週(2026-10-12号)で既に紹介済みのため除外。"
+    },
+    {
+      "pmid": "42858278",
+      "title": "The Solitary Functioning Kidney",
+      "reason": "小児限定でなく成人含む生涯視点のため次点。"
     }
   ]
 }
