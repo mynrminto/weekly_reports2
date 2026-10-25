@@ -1,0 +1,72 @@
+{
+ "date": "2026-10-26",
+ "search": {
+  "query": "(pediatric OR paediatric OR children OR childhood) AND (kidney disease OR nephrology OR nephrotic OR nephritis OR renal)",
+  "datetype": "edat",
+  "date_from": "2026-10-19",
+  "date_to": "2026-10-26",
+  "total_hits_broad": 165,
+  "total_hits_quality_filtered": 22
+ },
+ "selected": [
+  {
+   "pmid": "42927079",
+   "title": "Urinary Peptidomic Signature for Noninvasive Diagnosis of Alport Syndrome in Children",
+   "journal": "Kidney International Reports",
+   "date": "2026-09-25",
+   "type": "Diagnostic classifier study",
+   "doi": "10.1016/j.ekir.2026.107093",
+   "one_line": "小児アルポート症候群57例の尿ペプチドから機械学習で判別モデルを作成し、検証コホートでAUC 0.999を報告。",
+   "take_home": [
+    "尿ペプチドの識別モデルは小児アルポート症候群でAUC 0.999と高い判別能を示した（年齢・性・eGFR調整後0.918）。",
+    "遺伝子検査で結論が出ない例を補う非侵襲的な補助診断となり得る。",
+    "同一試験内のデータ分割による検証であり、外部での再現確認が必要。"
+   ],
+   "url": "https://doi.org/10.1016/j.ekir.2026.107093"
+  },
+  {
+   "pmid": "42903614",
+   "title": "High Prevalence and Limited Perinatal Prediction of Kidney Dysfunction in Adolescents Born Extremely Preterm",
+   "journal": "Kidney International Reports",
+   "date": "2026-09-17",
+   "type": "Cohort study (ELGAN-ECHO)",
+   "doi": "10.1016/j.ekir.2026.107086",
+   "one_line": "極早産出生の思春期675人のうち判定可能354人の82%に腎臓の異常（eGFR低下・血圧高値・微量アルブミン尿）があり、周産期因子では予測できなかった。",
+   "take_home": [
+    "極早産出生の思春期では腎臓関連の異常が高頻度（判定可能例の82%、完全例の66%）に認められた。",
+    "周産期因子の予測能は偶然水準（AUC 0.48–0.55）で、リスクで絞らない継続的サーベイランスが重要。",
+    "約半数で評価が不完全であり、有病率は幅を持って解釈する必要がある。"
+   ],
+   "url": "https://doi.org/10.1016/j.ekir.2026.107086"
+  },
+  {
+   "pmid": "42895573",
+   "title": "When to start continuous kidney replacement therapy in critically ill children: a practical, PICU-focused, evidence-based review",
+   "journal": "Pediatric Nephrology",
+   "date": "2026-10-19",
+   "type": "Review",
+   "doi": "10.1007/s00467-026-07564-4",
+   "one_line": "重症小児のCKRT開始時期について、固定閾値でなく腎の経過・体液過剰・他臓器への影響を動的に評価する枠組みを提案するレビュー。",
+   "take_home": [
+    "小児CKRTの開始は検査値の閾値だけでなく、腎機能の経過・体液過剰・他臓器影響を合わせて判断する。",
+    "成人試験では早期開始の生存利益は示されておらず、小児へそのまま適用できない。",
+    "レビューであり、個別の判断は施設の指針と専門家の判断が前提。"
+   ],
+   "url": "https://doi.org/10.1007/s00467-026-07564-4"
+  }
+ ],
+ "not_selected_this_week": [
+  {
+   "pmid": "42895572",
+   "reason": "小児腎血管炎治療レビュー。有力だが今週はCKRTレビューを優先（総説の重複回避）"
+  },
+  {
+   "pmid": "42923755",
+   "reason": "小児敗血症関連AKIレビュー。CKRTレビューと主題が近いため見送り"
+  },
+  {
+   "pmid": "42903967",
+   "reason": "プロテオミクス総説。小児特異的でない"
+  }
+ ]
+}
