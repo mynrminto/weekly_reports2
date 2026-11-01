@@ -1,0 +1,75 @@
+{
+ "date": "2026-11-02",
+ "search": {
+  "query": "(pediatric OR paediatric OR children OR childhood) AND (kidney disease OR nephrology OR nephrotic OR nephritis OR renal)",
+  "datetype": "edat",
+  "date_from": "2026-10-26",
+  "date_to": "2026-11-02",
+  "note": "広域クエリは非腎臓の論文が多く、タイトル/抄録指定で絞り込み候補27件から選定"
+ },
+ "selected": [
+  {
+   "pmid": "42955330",
+   "title": "Diagnostic performances and longitudinal trajectories of gene expression profiling and donor-derived cell-free DNA in pediatric kidney transplant recipients with rejection",
+   "journal": "Pediatric Nephrology",
+   "date": "2026-10-28",
+   "type": "前向きパイロット研究",
+   "doi": "10.1007/s00467-026-07596-w",
+   "one_line": "小児腎移植の拒絶診断で、血液の遺伝子発現プロファイル(GEP)とdd-cfDNAを併用すると特異度が上がるが、感度は限定的。",
+   "take_home": [
+    "23例27生検のパイロットで、GEP単独の感度40%・特異度82%、両者陽性で特異度94%・PPV75%だった。",
+    "拒絶治療開始後、GEPとdd-cfDNAは低下傾向を示し、血清クレアチニンより経過を反映する可能性がある。",
+    "併用の全体AUCは0.62（95%CI 0.31–0.93）と不確実性が大きく、生検の代替ではなく補助として大規模検証が必要。"
+   ],
+   "url": "https://doi.org/10.1007/s00467-026-07596-w"
+  },
+  {
+   "pmid": "42955329",
+   "title": "Predicting 12-month renal non-response in childhood-onset lupus nephritis: added value of kidney biopsy pathology",
+   "journal": "Pediatric Nephrology",
+   "date": "2026-10-28",
+   "type": "後ろ向きコホート（予測モデル）",
+   "doi": "10.1007/s00467-026-07591-1",
+   "one_line": "小児期発症ループス腎炎503例で、12か月時点の完全腎反応を予測するモデルを作成し、腎生検病理が予測を上乗せすることを示した。",
+   "take_home": [
+    "503例中295例(58.6%)が12か月で完全腎反応を達成。臨床モデルのAUCは0.784だった。",
+    "腎生検の病理所見を加えるとAUCが0.734から0.828へ上昇（ΔAUC 0.071）した。",
+    "完全腎反応は60か月で約10か月の再燃なし期間の延長と関連したが、モデルは内部検証のみで外部検証が必要。"
+   ],
+   "url": "https://doi.org/10.1007/s00467-026-07591-1"
+  },
+  {
+   "pmid": "42955334",
+   "title": "Immunosuppressive management of ANCA-associated glomerulonephritis in children",
+   "journal": "Pediatric Nephrology",
+   "date": "2026-10-29",
+   "type": "レビュー",
+   "doi": "10.1007/s00467-026-07568-0",
+   "one_line": "小児ANCA関連糸球体腎炎の寛解導入・維持の免疫抑制療法を、成人ガイドラインの小児への適用という観点で整理したレビュー。",
+   "take_home": [
+    "小児ANCA関連糸球体腎炎は稀で腎不全リスクが高いが、ガイドラインの根拠は主に成人の試験に基づく。",
+    "リツキシマブが導入・維持の両方で使われる場面が増えている。",
+    "血漿交換の位置づけは議論が続いており、補体標的薬は選択肢となる可能性がある段階。"
+   ],
+   "url": "https://doi.org/10.1007/s00467-026-07568-0"
+  }
+ ],
+ "not_selected_this_week": [
+  {
+   "pmid": "42955332",
+   "reason": "アルポート症候群は前週に取り上げたため主題重複を避けた"
+  },
+  {
+   "pmid": "42942510",
+   "reason": "ネフローゼ症候群のAKIレビュー。次点"
+  },
+  {
+   "pmid": "42946004",
+   "reason": "症例報告（デュピルマブ）のため優先度を下げた"
+  },
+  {
+   "pmid": "42936331",
+   "reason": "フィンランド小児のGFR推定。次点"
+  }
+ ]
+}
