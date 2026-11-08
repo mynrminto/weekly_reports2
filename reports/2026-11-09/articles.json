@@ -1,0 +1,16 @@
+{
+ "date":"2026-11-09",
+ "search":{"query":"(pediatric OR paediatric OR children OR childhood) AND (kidney disease OR nephrology OR nephrotic OR nephritis OR renal)","datetype":"edat","from":"2026/11/02","to":"2026/11/09","total_count":163},
+ "selected":[
+  {"pmid":"42985534","title":"A Randomized Controlled Trial of Two Corticosteroid Dosages for Relapsed Childhood Steroid-Sensitive Nephrotic Syndrome: The OPtimising dosE in Nephrotic Syndrome (OPEN) Trial Protocol.","journal":"Kidney Int Rep","date":"2026-10-02","type":"試験プロトコル","doi":"10.1016/j.ekir.2026.107115","url":"https://pubmed.ncbi.nlm.nih.gov/42985534/","one_line":"再発SSNSに対する高用量 vs 低用量プレドニゾロンの非劣性RCT(予定330例)の設計。結果はまだない。","take_home":["結果ではなく試験プロトコルで、効果の結論はまだない","再発時ステロイドを高/低用量で比べる二段階ランダム化の非劣性試験(約330例予定)","低用量が非劣性なら累積ステロイドを減らせる可能性。ただし現時点で診療を変える根拠ではない"]},
+  {"pmid":"42998943","title":"What Pediatric and Adult Urologists Should Know About Genetics in CAKUT.","journal":"Eur Urol Focus","date":"2026-11-07","type":"総説","doi":"10.1016/j.euf.2026.10.022","url":"https://pubmed.ncbi.nlm.nih.gov/42998943/","one_line":"CAKUTでどんなときに遺伝学的評価が有用か、管理にどう生かすかを泌尿器科医向けに整理した総説。","take_home":["両側性・重症、症候群性、家族例、画像と腎機能の乖離で遺伝学的評価が特に有益","分子診断は腎外病変の把握、家族リスク説明、長期サーベイランス、腎予後解釈に役立つ","手術判断は遺伝結果だけで決めず、従来の評価と併せて行う"]},
+  {"pmid":"42993307","title":"Pediatric renal abscess in the modern imaging era: clinical features, microbiology, management, and renal outcomes.","journal":"Pediatr Nephrol","date":"2026-11-06","type":"構造化記述的レビュー(65報・361例)","doi":"10.1007/s00467-026-07603-0","url":"https://pubmed.ncbi.nlm.nih.gov/42993307/","one_line":"小児腎膿瘍361例の集積。VURが約1/3で、多くが膿瘍後に初診断。","take_home":["発熱中心で非特異的。膿尿がなくても否定できない(30.6%で膿尿なし)","VURが33.1%で見つかり、膿瘍前に診断済みは9.1%のみ","多くは抗菌薬で治療可、約1/4でドレナージ。感染後評価と長期フォローが重要"]}
+ ],
+ "not_selected_this_week":[
+  {"pmid":"42977790","reason":"ネフローゼの遺伝学ミニレビュー。主題がOPEN(ネフローゼ)と重複するため見送り"},
+  {"pmid":"42974802","reason":"LMIC向けプライマリケアの総説。新規性が低め"},
+  {"pmid":"42980689","reason":"マウス基礎研究(Rac1/MCDK)。臨床インパクトが小さい"},
+  {"pmid":"42998924","reason":"Wilms腫瘍ロボット手術。腎腫瘍領域で腎臓病本流から外れる"},
+  {"pmid":"42982431","reason":"PAX2家系の症例報告"}
+ ]
+}
