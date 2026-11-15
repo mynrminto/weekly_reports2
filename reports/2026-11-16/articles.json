@@ -1,0 +1,18 @@
+{
+ "date":"2026-11-16",
+ "search":{"query":"(pediatric OR paediatric OR children OR childhood) AND (kidney disease OR nephrology OR nephrotic OR nephritis OR renal)","datetype":"edat","from":"2026/11/09","to":"2026/11/16","total_count":199},
+ "selected":[
+  {"pmid":"43022082","title":"Establishing Mycophenolate Therapeutic Drug Monitoring Targets in Childhood Nephrotic Syndrome.","journal":"Kidney Int Rep","date":"2026-10-06","type":"後ろ向きコホート(67例・131回のAUC測定)","doi":"10.1016/j.ekir.2026.107131","url":"https://pubmed.ncbi.nlm.nih.gov/43022082/","one_line":"FRNSでのMPA治療薬物モニタリング。AUC 40〜60 mg·h/Lを初期目標とする提案。","take_home":["再発予防と相関したのはMPA-AUCで、トラフ値や投与量では相関がみられなかった","AUCが10 mg·h/L上がるごとに再発率は約30%低下(IRR 0.70)","AUC 40〜60を初期目標に。60超は好中球減少リスクと天秤にかける(単施設後ろ向き・リツキシマブ併用例中心)"]},
+  {"pmid":"43024395","title":"Pegcetacoplan in C3 Glomerulopathy and Primary Immune-Complex MPGN.","journal":"J Am Soc Nephrol","date":"2026-11-13","type":"第3相RCT(VALIANT)の52週オープンラベル期解析","doi":"10.1681/ASN.0000001296","url":"https://pubmed.ncbi.nlm.nih.gov/43024395/","one_line":"C3G/原発性IC-MPGNで、C3阻害薬ペグセタコプランの蛋白尿約67%減少が1年間維持された。","take_home":["12歳以上が対象で、思春期の患者も含む第3相試験の1年データ","52週で蛋白尿の減少(約-67%)が持続し、プラセボから切り替えた群でも約-54%","eGFRは安定し、新たな安全性シグナルはなし。ただし延長期は非盲検で、長期の腎予後は今後の課題"]},
+  {"pmid":"43012923","title":"Association of graft survival with tacrolimus metabolism in pediatric and young adult kidney transplant recipients: an international Collaborative Transplant Study analysis.","journal":"Pediatr Nephrol","date":"2026-11-11","type":"国際登録コホート(CTS・3768例)","doi":"10.1007/s00467-026-07619-6","url":"https://pubmed.ncbi.nlm.nih.gov/43012923/","one_line":"移植1年時のタクロリムスCDR低値(<0.58)が、思春期・若年成人で移植腎喪失リスクと関連し、小児(1〜11歳)では関連がみられなかった。","take_home":["思春期・若年成人は小児より移植腎喪失リスクが高い","1年時CDR<0.58(代謝が速い)は思春期でaHR 1.74、若年成人でaHR 1.98","小児では関連なし。発達段階に応じたリスク層別化と個別化免疫抑制を示唆(後ろ向き解析)"]}
+ ],
+ "not_selected_this_week":[
+  {"pmid":"43004972","reason":"小児CKDでのダパグリフロジン論文の撤回告知。重要情報だが抄録なしのため番組内で短く触れるのみ"},
+  {"pmid":"43012922","reason":"IgA血管炎腎炎の経口免疫抑制。今週は糸球体疾患枠をVALIANTに充てたため見送り"},
+  {"pmid":"43020879","reason":"小児CKDの治療イノベーションに関するロードマップ(Nat Rev Nephrol)。総説で新しいデータがないため見送り"},
+  {"pmid":"43002226","reason":"PODIUM腎機能障害基準とKDIGO AKIの比較。候補だったが今週は移植枠を優先"},
+  {"pmid":"43031483","reason":"肺炎球菌HUSがワクチン切替後に減少。単国の観察で次点"},
+  {"pmid":"43005421","reason":"抗ネフリン抗体の総説。ネフローゼ枠がMPA論文と重複"},
+  {"pmid":"43033341","reason":"Frasier症候群の症例報告"}
+ ]
+}
